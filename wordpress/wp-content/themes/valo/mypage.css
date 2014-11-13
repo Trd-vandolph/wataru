@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+
+	strong{
+		color: red;
+	}
+	
+	a{
+		color: blue;
+	}
+	
+	body{
+		background-image: url(http://localhost/wataru/wordpress/wp-content/themes/twentytwelve/images/Tulips.jpg);
+	}
+	
+	div{}
+
